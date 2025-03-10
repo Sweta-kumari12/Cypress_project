@@ -1,0 +1,3 @@
+{
+    "include" :["./node_modules/cypress","cypress/e2e/pages/Search.cy.js"]
+}
